@@ -1,5 +1,16 @@
 # 🐸 Practice work for Database classes at HSE
 
+# How to:
+1. Install postgresql
+2. Create database `movies`
+3. Run following code in terminal
+```zsh
+git clone git@github.com:aevsai/db_practice.git
+cd db_practice
+pip install -r requirements.txt
+python -m streamlit ./app/main.py
+```
+
 # Models 🗺️
 Folder `/app/data/models` contains database models:
 - `persons` - short info about persons 👨‍🎓
