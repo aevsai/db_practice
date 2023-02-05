@@ -8,7 +8,7 @@
 git clone git@github.com:aevsai/db_practice.git
 cd db_practice
 pip install -r requirements.txt
-python -m streamlit ./app/main.py
+python -m streamlit run ./app/main.py
 ```
 
 # Models 🗺️
