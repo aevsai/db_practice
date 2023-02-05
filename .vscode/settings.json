@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.linting.banditEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true
+}
